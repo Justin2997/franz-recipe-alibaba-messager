@@ -1,0 +1,13 @@
+{
+  "id": "Alibaba Messager",
+  "name": "Alibaba Messager",
+  "version": "1.0.0",
+  "description": "Alibaba Messager",
+  "main": "index.js",
+  "author": "justin2997",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://message.alibaba.com/",
+    "hasTeamID": false
+  }
+}
